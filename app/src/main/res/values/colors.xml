@@ -1,0 +1,6 @@
+<resources>
+    <color name="colorPrimary">#BC34DB</color> <!-- Couleur de fond du bouton -->
+    <color name="colorPrimaryDark">#040404</color> <!-- Couleur de fond du texte -->
+    <color name="colorAccent">#F4F1F1</color> <!-- Couleur du texte des boutons -->
+    <color name="textColorPrimary">#FFFFFF</color> <!-- Couleur du texte principal -->
+</resources>
